@@ -1,0 +1,6 @@
+@GestionBiblio_HostAddress = http://localhost:5125
+
+GET {{GestionBiblio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

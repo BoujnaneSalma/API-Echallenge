@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\testes\\livretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:testes\\livretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\controllers\\livrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:controllers\\livrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\service\\livreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:service\\livreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\service\\ilivreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:service\\ilivreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\repository\\livrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:repository\\livrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\repository\\ilivrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:repository\\ilivrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\mappers\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:mappers\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\viewmodels\\deletebookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:viewmodels\\deletebookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\viewmodels\\updatebookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:viewmodels\\updatebookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\viewmodels\\listbookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:viewmodels\\listbookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\viewmodels\\addbookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:viewmodels\\addbookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|d:\\5eme ann\u00E9e\\e-challenge sqli\\api 2024\\gestionbiblio\\models\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFA1BA5-23E1-4DB0-B97B-FB43A1776AFC}|GestionBiblio.csproj|solutionrelative:models\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivreTests.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Testes\\LivreTests.cs",
+              "RelativeDocumentMoniker": "Testes\\LivreTests.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Testes\\LivreTests.cs",
+              "RelativeToolTip": "Testes\\LivreTests.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAFIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T10:44:49.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookMapper.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Mappers\\BookMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\BookMapper.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Mappers\\BookMapper.cs",
+              "RelativeToolTip": "Mappers\\BookMapper.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:39:01.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteBookVM.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\ViewModels\\DeleteBookVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DeleteBookVM.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\ViewModels\\DeleteBookVM.cs",
+              "RelativeToolTip": "ViewModels\\DeleteBookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:37:53.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateBookVM.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\ViewModels\\UpdateBookVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UpdateBookVM.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\ViewModels\\UpdateBookVM.cs",
+              "RelativeToolTip": "ViewModels\\UpdateBookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:37:44.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddBookVM.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\ViewModels\\AddBookVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddBookVM.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\ViewModels\\AddBookVM.cs",
+              "RelativeToolTip": "ViewModels\\AddBookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:37:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListBookVM.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\ViewModels\\ListBookVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ListBookVM.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\ViewModels\\ListBookVM.cs",
+              "RelativeToolTip": "ViewModels\\ListBookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:35:08.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:23:19.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LivreRepository.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Repository\\LivreRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LivreRepository.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Repository\\LivreRepository.cs",
+              "RelativeToolTip": "Repository\\LivreRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:35:19.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILivreRepository.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Repository\\ILivreRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ILivreRepository.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Repository\\ILivreRepository.cs",
+              "RelativeToolTip": "Repository\\ILivreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:35:09.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivreService.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Service\\LivreService.cs",
+              "RelativeDocumentMoniker": "Service\\LivreService.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Service\\LivreService.cs",
+              "RelativeToolTip": "Service\\LivreService.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:31:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILivreService.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Service\\ILivreService.cs",
+              "RelativeDocumentMoniker": "Service\\ILivreService.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Service\\ILivreService.cs",
+              "RelativeToolTip": "Service\\ILivreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:31:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Models\\Livre.cs",
+              "RelativeDocumentMoniker": "Models\\Livre.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Models\\Livre.cs",
+              "RelativeToolTip": "Models\\Livre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:27:15.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivreController.cs",
+              "DocumentMoniker": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Controllers\\LivreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivreController.cs",
+              "ToolTip": "D:\\5eme Ann\u00E9e\\E-challenge SQLI\\Api 2024\\GestionBiblio\\Controllers\\LivreController.cs",
+              "RelativeToolTip": "Controllers\\LivreController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:26:22.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
